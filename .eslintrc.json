@@ -50,6 +50,7 @@
     "$": true,
     "document": true,
     "window": true,
+    "google": true,
     "io": true,
     "moment": true,
     "Handlebars": true
